@@ -1,3 +1,2 @@
 # node-xlsx
-node-excel
-node-excel 插件 根据菜单配置json 文件、api文件 生成excel
+node-excel插件,根据菜单配置[json文件]、api文件 生成excel
